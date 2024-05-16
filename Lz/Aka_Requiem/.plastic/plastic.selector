@@ -1,0 +1,4 @@
+repository "Aka_Requiem@LeoniZon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
